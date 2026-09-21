@@ -1,0 +1,38 @@
+Script started on 2026-09-21 14:51:35+00:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="120" LINES="30"]
+[?2004h]0;ubuntu@cs220: ~/cs220[01;32mubuntu@cs220[00m:[01;34m~/cs220[00m$ ls 
+[?2004l[0m[01;34m220-programming-in-c-and-unix-lab01-slaiman006[0m  README.md  [01;34mlab01[0m  lab01.txt  slaiman.txt  test.txt
+[?2004h]0;ubuntu@cs220: ~/cs220[01;32mubuntu@cs220[00m:[01;34m~/cs220[00m$ cd lab01 
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220/lab01[01;32mubuntu@cs220[00m:[01;34m~/cs220/lab01[00m$ ls 
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220/lab01[01;32mubuntu@cs220[00m:[01;34m~/cs220/lab01[00m$ cat test,[K.txt 
+[?2004lcat: test.txt: No such file or directory
+[?2004h]0;ubuntu@cs220: ~/cs220/lab01[01;32mubuntu@cs220[00m:[01;34m~/cs220/lab01[00m$ cd cs[K[K..
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220[01;32mubuntu@cs220[00m:[01;34m~/cs220[00m$ cd 22-0[K[K01[K[K0-programming-in-c-and-unix-lab01-slaiman006/
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[01;32mubuntu@cs220[00m:[01;34m~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[00m$ cat test.txt
+[?2004lcat: test.txt: No such file or directory
+[?2004h]0;ubuntu@cs220: ~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[01;32mubuntu@cs220[00m:[01;34m~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[00m$ cd
+[?2004l[?2004h]0;ubuntu@cs220: ~[01;32mubuntu@cs220[00m:[01;34m~[00m$ cd cs220
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220[01;32mubuntu@cs220[00m:[01;34m~/cs220[00m$ ls 
+[?2004l[0m[01;34m220-programming-in-c-and-unix-lab01-slaiman006[0m  README.md  [01;34mlab01[0m  lab01.txt  slaiman.txt  test.txt
+[?2004h]0;ubuntu@cs220: ~/cs220[01;32mubuntu@cs220[00m:[01;34m~/cs220[00m$ cd tets[K[Kst [K.txt 
+[?2004lbash: cd: test.txt: Not a directory
+[?2004h]0;ubuntu@cs220: ~/cs220[01;32mubuntu@cs220[00m:[01;34m~/cs220[00m$ lab02[K[K[K[K[Kcd lab01 
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220/lab01[01;32mubuntu@cs220[00m:[01;34m~/cs220/lab01[00m$ cat test.txt 
+[?2004lcat: test.txt: No such file or directory
+[?2004h]0;ubuntu@cs220: ~/cs220/lab01[01;32mubuntu@cs220[00m:[01;34m~/cs220/lab01[00m$ cd ..
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220[01;32mubuntu@cs220[00m:[01;34m~/cs220[00m$ cd 220-programming-in-c-and-unix-lab01-slaiman006/
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[01;32mubuntu@cs220[00m:[01;34m~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[00m$ cat test [K.txt 
+[?2004lcat: test.txt: No such file or directory
+[?2004h]0;ubuntu@cs220: ~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[01;32mubuntu@cs220[00m:[01;34m~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[00m$ git [K[K[K[Kcd..[K[K ..
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220[01;32mubuntu@cs220[00m:[01;34m~/cs220[00m$ cat test [K.txt 
+[?2004lTest file
+[?2004h]0;ubuntu@cs220: ~/cs220[01;32mubuntu@cs220[00m:[01;34m~/cs220[00m$ cd 220-programming-in-c-and-unix-lab01-slaiman006/
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[01;32mubuntu@cs220[00m:[01;34m~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[00m$ git status 
+[?2004lOn branch master
+
+No commits yet
+
+nothing to commit (create/copy files and use "git add" to track)
+[?2004h]0;ubuntu@cs220: ~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[01;32mubuntu@cs220[00m:[01;34m~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[00m$ git add lab01.txt
+[?2004lfatal: pathspec 'lab01.txt' did not match any files
+[?2004h]0;ubuntu@cs220: ~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[01;32mubuntu@cs220[00m:[01;34m~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[00m$ ls 
+[?2004l[?2004h]0;ubuntu@cs220: ~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[01;32mubuntu@cs220[00m:[01;34m~/cs220/220-programming-in-c-and-unix-lab01-slaiman006[00m$ git 
