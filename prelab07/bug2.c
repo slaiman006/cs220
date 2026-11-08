@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+int main()
+{
+	int num =10;
+	int m=0;
+	int *grades = (int *)malloc (num);
+	for(int i =0; i<num;i++)
+		grades[i] = rand()%100;
+	for(int i =0; i<num;i++)
+		if (grades[m]<=grades[i])
+			m=i;
+	for(int i =0; i<num;i++)
+		printf("%d   ", grades[i]);
+	printf("\n\n");
+	printf(" max grade is %d\n", grades[m]);
+	free(grades);
+	return 0;
+}
